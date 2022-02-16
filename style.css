@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+}
+
+img {
+     border: 10px solid;
+    border-color: aqua;
+    width: 350;
+}
+
+html {
+    background-color: lawngreen;
+}
